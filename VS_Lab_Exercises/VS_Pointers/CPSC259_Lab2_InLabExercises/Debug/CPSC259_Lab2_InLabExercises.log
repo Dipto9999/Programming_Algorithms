@@ -1,0 +1,5 @@
+﻿  lab2_in-lab_exercises.c
+  main.c
+  Generating Code...
+C:\My_Files\School\School_Work\Engineering_Bachelors\Second_Year\CPSC_259\Labs\Lab_2\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(119): warning C4715: 'find_index': not all control paths return a value
+  CPSC259_Lab2_InLabExercises.vcxproj -> C:\My_Files\School\School_Work\Engineering_Bachelors\Second_Year\CPSC_259\Labs\Lab_2\CPSC259_Lab2_InLabExercises\Debug\CPSC259_Lab2_InLabExercises.exe

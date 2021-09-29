@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CPSC259_Lab2_UnitTests.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CPSC259_Lab2_UnitTests.vcxproj -> C:\My_Files\School\School_Work\Engineering_Bachelors\Second_Year\CPSC_259\Labs\Lab_2\CPSC259_Lab2_InLabExercises\Debug\CPSC259_Lab2_InLabUnitTests.dll
