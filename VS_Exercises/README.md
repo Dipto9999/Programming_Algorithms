@@ -1,6 +1,6 @@
 # Visual Studio Exercises
 
-These are solutions to **C** programming exercises completed as part of <b>CPSC 259 - Data Structures and Algorithms for Electrical Engineers</b> at the <b>University of British Columbia</b>.
+These are solutions to **C** programming exercises. These were originally completed as part of the <b>CPSC 259 - Data Structures and Algorithms for Electrical Engineers</b> course requirement at the <b>University of British Columbia</b>.
 
 ## Modifications
 
