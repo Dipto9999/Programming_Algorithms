@@ -1,6 +1,0 @@
-﻿  main.c
-  recursion.c
-C:\My_Files\School\School_Work\Engineering_Bachelors\Second_Year\CPSC_259\Labs\Lab_4\CPSC259_Lab4_InLabFramework\CPSC259_Lab4_InLabFramework\CPSC259_Lab4_InLabFramework\recursion.c(26,66): warning C4013: 'abs' undefined; assuming extern returning int
-  Generating Code...
-C:\My_Files\School\School_Work\Engineering_Bachelors\Second_Year\CPSC_259\Labs\Lab_4\CPSC259_Lab4_InLabFramework\CPSC259_Lab4_InLabFramework\CPSC259_Lab4_InLabFramework\recursion.c(27): warning C4715: 'calculate_power': not all control paths return a value
-  CPSC259_Lab4_InLabFramework.vcxproj -> C:\My_Files\School\School_Work\Engineering_Bachelors\Second_Year\CPSC_259\Labs\Lab_4\CPSC259_Lab4_InLabFramework\CPSC259_Lab4_InLabFramework\Debug\CPSC259_Lab4_InLabFramework.exe
