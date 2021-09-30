@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "mazesolver.h": "c",
-        "initializer_list": "cpp",
-        "type_traits": "cpp",
-        "xstring": "cpp",
-        "xutility": "cpp"
-    }
-}
